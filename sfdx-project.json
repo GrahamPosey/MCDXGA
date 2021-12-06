@@ -13,7 +13,6 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "mcdxGAPackage": "0Ho5f000000bldHCAQ",
-        "mcdxGAPackage@0.1.0-1": "04t5f0000006WvJAAU"
+        "mcdxGAPackage": "0Ho5f000000bldHCAQ"
     }
 }
