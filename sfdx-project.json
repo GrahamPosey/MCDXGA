@@ -6,6 +6,13 @@
             "package": "mcdxGAPackage",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app/main/default/classes",
+            "package": "mcdxGATestPackage",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "mcdxga",
@@ -14,6 +21,8 @@
     "sourceApiVersion": "52.0",
     "packageAliases": {
         "mcdxGAPackage": "0Ho5f000000bldHCAQ",
+        "mcdxGAPackage@0.1.0-1": "04t5f0000006WvJAAU",
+        "mcdxGATestPackage": "0Ho5f000000bldMCAQ"
     }
 }
 
