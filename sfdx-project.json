@@ -2,14 +2,11 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "mcdxGAPackage",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "default": true
         },
         {
             "path": "force-app/main/default/classes",
-            "package": "mcdxGATestPackage",
+            "package": "ClassesPackage2.0",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
@@ -20,9 +17,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "mcdxGAPackage": "0Ho5f000000bldHCAQ",
-        "mcdxGAPackage@0.1.0-1": "04t5f0000006WvJAAU",
-        "mcdxGATestPackage": "0Ho5f000000bldMCAQ"
+        "ClassesPackage2.0": "0Ho5f000000bldlCAA"
     }
 }
 
