@@ -10,6 +10,13 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": false
+        },
+        {
+            "path": "force-app/main/default/lwc",
+            "package": "LWCPackage3.0",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "mcdxga",
@@ -17,6 +24,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "ClassesPackage3.0": "0Ho5f000000bldqCAA"
+        "ClassesPackage3.0": "0Ho5f000000bldqCAA",
+        "LWCPackage3.0": "0Ho5f000000bldvCAA"
     }
 }
